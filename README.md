@@ -1,4 +1,4 @@
-#  The North Face — Système de recommandation NLP
+#  The North Face - Système de recommandation NLP
 
 ##  Objectif
 Identifier des groupes de produits similaires et construire 
